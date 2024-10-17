@@ -35,6 +35,10 @@ nav a {
     font-size: 1.2rem;
 }
 
+grafico {
+    margin-top: 3rem;
+}
+
 header {
     background-color: var(--primary-color);
     text-align: center;
